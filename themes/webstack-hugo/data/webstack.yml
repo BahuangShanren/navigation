@@ -38,6 +38,11 @@
       url: https://www.zhihu.com/
       description: 问答平台
 
+    - title: 今日热榜
+      logo: assets/images/logos/Default.svg
+      url: https://tophub.today
+      description: 聚合类网络热闻榜单
+
 - taxonomy: 云盘
   icon: fa-skyatlas
   links: 
