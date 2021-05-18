@@ -410,9 +410,9 @@
     - term: 临时短信
       icon: fa-commenting
       links:
-        - title: Free Online Phone
+        - title: 在线接收短信
           logo: assets/images/logos/Default.svg
-          url: https://www.freeonlinephone.org/
+          url: https://jieduanxin.com/
           description: 
 
         - title: SMS Receive Free
