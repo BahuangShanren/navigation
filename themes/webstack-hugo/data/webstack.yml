@@ -39,7 +39,7 @@
       description: 问答平台
 
     - title: 今日热榜
-      logo: assets/images/logos/Default.svg
+      logo: assets/images/logos/Jinrirebang.svg
       url: https://tophub.today
       description: 聚合类网络热闻榜单
 
@@ -248,7 +248,7 @@
           description: 
 
         - title: 微软爱写作
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Aimwriting.svg
           url: https://aimwriting.mtutor.engkoo.com/
           description: 英语文章写作利器
 
@@ -329,12 +329,12 @@
           description: 
 
         - title: 吾道
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Woodo.svg
           url: https://www.woodo.cn/home/
           description: 
 
         - title: PPT超级市场
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/PPTsotary.svg
           url: http://ppt.sotary.com/
           description: 
 
@@ -365,12 +365,12 @@
           description: 
 
         - title: 99参考计算网
-          logo: assets/images/logos/99CanKao.svg
+          logo: assets/images/logos/99Cankao.svg
           url: https://www.99cankao.com/
           description: 
 
         - title: 报告查一查
-          logo: assets/images/logos/BaoGaoChaYiCha.svg
+          logo: assets/images/logos/Baogaochayicha.svg
           url: http://report.seedsufe.com/
           description: 各行业数据报告查询
 
@@ -411,37 +411,37 @@
       icon: fa-commenting
       links:
         - title: 在线接收短信
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Jieduanxin.svg
           url: https://jieduanxin.com/
           description: 
 
         - title: SMS Receive Free
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/SMSreceivefree.svg
           url: https://smsreceivefree.com/
           description: 
 
         - title: 隐私短信
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Yinsiduanxin.svg
           url: https://www.yinsiduanxin.com/
           description: 
 
         - title: ZUSMS
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/zusms.svg
           url: https://www.zusms.com/
           description: 
 
         - title: 超级云短信
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/bfkdim.svg
           url: https://www.bfkdim.com/
           description: 
 
         - title: 云短信
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Yunduanxin.svg
           url: https://yunduanxin.net/
           description: 
 
         - title: Material Tools
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/MaterialTools.svg
           url: https://www.materialtools.com/
           description: 
 
@@ -528,7 +528,7 @@
           description: 
 
         - title: I Know What You Download
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/IKnow.svg
           url: https://iknowwhatyoudownload.com/en/peer/
           description: 查看某IP的BitTorrent下载记录
 
@@ -620,22 +620,22 @@
       icon: fa-key
       links:
         - title: 微零微
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Windows.svg
           url: https://v0v.bid/kms.html
           description: Windows、Office激活
 
         - title: 老白
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/LaoBai.svg
           url: https://bai.okduang.com/
           description: 
 
         - title: SORDUM
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Sordum.svg
           url: https://www.sordum.org/
           description: 
 
-        - title: MSDN
-          logo: assets/images/logos/Default.svg
+        - title: I Tell You
+          logo: assets/images/logos/ITellYou.svg
           url: https://next.itellyou.cn/Original/Index
           description: 微软相关系统及软件的正版镜像
 
@@ -681,7 +681,7 @@
           description: IP定位
 
         - title: OpenGPS
-          logo: assets/images/logos/Chaipip.svg
+          logo: assets/images/logos/Default.svg
           url: https://www.opengps.cn/Data/IP/rtb.aspx
           description: IP定位
 
@@ -776,12 +776,12 @@
       icon: fa-font-awesome
       links:
         - title: 阿里巴巴矢量图标库
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Iconfont.svg
           url: https://www.iconfont.cn/
           description: 
 
         - title: Simple Icons
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/SimpleIcons.svg
           url: https://simpleicons.org/
           description: 
 
