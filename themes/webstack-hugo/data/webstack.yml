@@ -786,17 +786,17 @@
           description: 
 
         - title: Font Awesome 4
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/FontAwesome4.svg
           url: https://fontawesome.dashgame.com/
           description: 
 
         - title: Font Awesome 5
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/FontAwesome5.svg
           url: https://fa5.dashgame.com/#/%E5%9B%BE%E6%A0%87
           description: 
 
         - title: Icons8
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Icons8.svg
           url: https://icons8.cn/
           description: 
 
