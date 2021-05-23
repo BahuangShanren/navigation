@@ -1630,10 +1630,15 @@
           url: https://15.ai/
           description: 智能合成人音
 
-        - title: 伴奏提取
+        - title: 伴奏、人声提取
           logo: assets/images/logos/Default.svg
           url: https://www.lalal.ai/
-          description: 
+          description: 国外网站
+
+        - title: 伴奏、人声提取
+          logo: assets/images/logos/Default.svg
+          url: http://audio.yoofreex.top/
+          description: 国内网站
 
 - taxonomy: 图书
   icon: fa-book
@@ -1832,4 +1837,9 @@
     - title: PixivIC
       logo: assets/images/logos/Default.svg
       url: http://xm.sb/
-      description: Pixiv镜像站    
+      description: Pixiv镜像站
+
+    - title: Human Benchmark
+      logo: assets/images/logos/Default.svg
+      url: https://humanbenchmark.com/
+      description: 测试反应力
