@@ -1329,6 +1329,11 @@
           url: https://pixelmap.amcharts.com/
           description: 
 
+        - title: 地图窝下载
+          logo: assets/images/logos/Default.svg
+          url: http://www.onegreen.net/
+          description: 
+
     - term: 模型生成
       icon: fa-cube
       links:
