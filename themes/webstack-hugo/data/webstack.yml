@@ -1756,100 +1756,76 @@
       url: https://www.xungushici.com/
       description: 
 
-- taxonomy: 减压
+- taxonomy: 娱乐
   icon: fa-gamepad
-  links: 
-    - title: The Useless Web
-      logo: assets/images/logos/Default.svg
-      url: https://theuselessweb.com/
-      description: 随机重定向到有趣的网站
+  list: 
+    - term: 游戏
+      icon: fa-gamepad
+      links:
+        - title: 街机游戏
+          logo: assets/images/logos/Default.svg
+          url: https://www.yikm.net/
+          description: 多种经典街机游戏
 
-    - title: 有趣网址之家
-      logo: assets/images/logos/Default.svg
-      url: https://youquhome.com/
-      description: 定期发布有趣的网站
+        - title: Mikutap
+          logo: assets/images/logos/Default.svg
+          url: https://aidn.jp/mikutap/
+          description: 键盘音乐游戏
 
-    - title: Magic Keyboard
-      logo: assets/images/logos/Default.svg
-      url: http://magickeyboard.io/
-      description: 不断弹飞的键盘字母
+        - title: TypeRacer
+          logo: assets/images/logos/Default.svg
+          url: https://play.typeracer.com/
+          description: 打字游戏
 
-    - title: Mikutap
-      logo: assets/images/logos/Default.svg
-      url: https://aidn.jp/mikutap/
-      description: 键盘音乐游戏
+    - term: 休闲
+      icon: fa-coffee
+      links:
+        - title: GGAC_CG分享
+          logo: assets/images/logos/Default.svg
+          url: https://www.ggac.net/
+          description: 国内精美CG作品
 
-    - title: TypeRacer
-      logo: assets/images/logos/Default.svg
-      url: https://play.typeracer.com/
-      description: 打字游戏
+        - title: PixivIC
+          logo: assets/images/logos/Default.svg
+          url: http://xm.sb/
+          description: sharemoe,Pixiv镜像站之一
 
-    - title: Typing practice
-      logo: assets/images/logos/Default.svg
-      url: https://www.keybr.com/
-      description: 练习打字
+        - title: The Useless Web
+          logo: assets/images/logos/Default.svg
+          url: https://theuselessweb.com/
+          description: 随机重定向到有趣的网站
 
-    - title: Spielzeugz Lab
-      logo: assets/images/logos/Default.svg
-      url: http://www.spielzeugz.de/lab/
-      description: 有几个有趣的效果
+        - title: 有趣网址之家
+          logo: assets/images/logos/Default.svg
+          url: https://youquhome.com/
+          description: 定期发布有趣的网站
 
-    - title: David.li
-      logo: assets/images/logos/Default.svg
-      url: http://david.li/
-      description: 有几个有趣的效果
+        - title: 沙雕APP
+          logo: assets/images/logos/Default.svg
+          url: https://shadiao.app/?from_chp
+          description: 
 
-    - title: Chordsurfer
-      logo: assets/images/logos/Default.svg
-      url: http://chordsurfer.redbull.com/
-      description: 音乐跑酷游戏
+        - title: 涟漪
+          logo: assets/images/logos/Default.svg
+          url: https://codepen.io/neave/full/WNvGNez
+          description: 鼠标甩出炫光涟漪
 
-    - title: HTwins
-      logo: assets/images/logos/Default.svg
-      url: https://htwins.net/
-      description: 有几个有趣的效果
+        - title: 浮动
+          logo: assets/images/logos/Default.svg
+          url: https://strobe.cool/
+          description: 久盯该图中心然后看万物浮动
 
-    - title: Staggering Beauty
-      logo: assets/images/logos/Default.svg
-      url: http://www.staggeringbeauty.com/
-      description: 剧烈闪晃的鬼畜蚯蚓？
+        - title: Human Benchmark
+          logo: assets/images/logos/Default.svg
+          url: https://humanbenchmark.com/
+          description: 测试反应力
 
-    - title: 线条骑士
-      logo: assets/images/logos/Default.svg
-      url: https://www.linerider.com/
-      description: 
+        - title: A Real Me
+          logo: assets/images/logos/Default.svg
+          url: https://www.arealme.com/
+          description: 很多有趣的测试
 
-    - title: 沙雕APP
-      logo: assets/images/logos/Default.svg
-      url: https://shadiao.app/?from_chp
-      description: 
-
-    - title: 涟漪
-      logo: assets/images/logos/Default.svg
-      url: https://codepen.io/neave/full/WNvGNez
-      description: 鼠标甩出炫光涟漪
-
-    - title: 浮动
-      logo: assets/images/logos/Default.svg
-      url: https://strobe.cool/
-      description: 久盯该图中心然后看万物浮动
-
-    - title: GGAC_CG分享
-      logo: assets/images/logos/Default.svg
-      url: https://www.ggac.net/
-      description: 国内精美CG作品
-
-    - title: PixivIC
-      logo: assets/images/logos/Default.svg
-      url: http://xm.sb/
-      description: Pixiv镜像站
-
-    - title: Human Benchmark
-      logo: assets/images/logos/Default.svg
-      url: https://humanbenchmark.com/
-      description: 测试反应力
-
-    - title: A Real Me
-      logo: assets/images/logos/Default.svg
-      url: https://www.arealme.com/
-      description: 很多有趣的测试
+        - title: Typing practice
+          logo: assets/images/logos/Default.svg
+          url: https://www.keybr.com/
+          description: 练习打字
