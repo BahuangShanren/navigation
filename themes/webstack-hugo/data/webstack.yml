@@ -1640,6 +1640,11 @@
     - term: 音频处理
       icon: fa-fast-forward
       links:
+        - title: 灯里的歌词滚动姬
+          logo: assets/images/logos/Default.svg
+          url: https://lrc-maker.github.io/
+          description: 在线歌词打轴
+
         - title: 15.ai
           logo: assets/images/logos/Default.svg
           url: https://15.ai/
