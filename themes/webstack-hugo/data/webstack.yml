@@ -1521,29 +1521,14 @@
           url: https://jx.youyitv.com/?url=
           description: 
 
-        - title: 思云解析
-          logo: assets/images/logos/Default.svg
-          url: https://jx.ap2p.cn/?url=
-          description: 
-
         - title: Play m3u8解析
           logo: assets/images/logos/Default.svg
           url: https://www.playm3u8.cn/jiexi.php?url=
           description: 
 
-        - title: 大白解析
-          logo: assets/images/logos/Default.svg
-          url: http://api.myzch.cn/?url=
-          description: 
-
         - title: cuan.la解析
           logo: assets/images/logos/Default.svg
           url: https://www.cuan.la/m3u8.php?url=
-          description: 
-
-        - title: 蘑菇视频解析
-          logo: assets/images/logos/Default.svg
-          url: https://jx.wzslw.cn/?url=
           description: 
 
         - title: 颜亦解析
@@ -1781,6 +1766,26 @@
           logo: assets/images/logos/Default.svg
           url: https://www.yikm.net/
           description: 多种经典街机游戏
+
+        - title: 畅玩空间
+          logo: assets/images/logos/Default.svg
+          url: https://play.wo1wan.com/
+          description: 
+
+        - title: KBH Games
+          logo: assets/images/logos/Default.svg
+          url: https://kbhgames.com/
+          description: 
+
+        - title: PacoGames
+          logo: assets/images/logos/Default.svg
+          url: https://www.pacogames.com/
+          description: 
+
+        - title: Crazy Games
+          logo: assets/images/logos/Default.svg
+          url: https://www.crazygames.com/
+          description: 
 
         - title: Mikutap
           logo: assets/images/logos/Default.svg
