@@ -815,38 +815,28 @@
           url: https://illustrio.com/
           description: 
 
-        - title: EasyIcon
-          logo: assets/images/logos/Default.svg
-          url: https://www.easyicon.net/
-          description: 
-
         - title: World Vector Logo
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/WorldVectorLogo.svg
           url: https://worldvectorlogo.com/
           description: 
 
-        - title: Instant Logo Search
-          logo: assets/images/logos/Default.svg
-          url: http://instantlogosearch.com/
-          description: 
-
         - title: Noun Project
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/NounProject.svg
           url: https://thenounproject.com/
           description: 
 
         - title: Remix Icon
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/RemixIcon.svg
           url: https://remixicon.com/
           description: 
 
         - title: IconStore
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/IconStore.svg
           url: https://iconstore.co/
           description: 
 
         - title: 矢量雪花
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/SnowFlaker.svg
           url: https://www.misha.studio/snowflaker/
           description: 
 
@@ -854,32 +844,27 @@
       icon: fa-photo
       links:
         - title: 图鱼纹理
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Tuyu.svg
           url: https://www.hituyu.com/
           description: 纹理库
 
         - title: Toptal纹理 
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Toptal-Texture.svg
           url: https://www.toptal.com/designers/subtlepatterns/
           description: 纹理库
 
         - title: PngImg
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/PngImg.svg
           url: https://pngimg.com/
           description: 免扣图素材
 
-        - title: StickPng
-          logo: assets/images/logos/Default.svg
+        - title: StickPNG
+          logo: assets/images/logos/StickPNG.svg
           url: https://www.stickpng.com/
           description: 免扣图素材
 
-        - title: PngAll
-          logo: assets/images/logos/Default.svg
-          url: http://www.pngall.com/
-          description: 免扣图素材
-
         - title: Logosc
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Logosc.svg
           url: https://www.logosc.cn/so/
           description: 一次搜索多个免费图库
 
