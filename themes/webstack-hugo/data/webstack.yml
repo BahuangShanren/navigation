@@ -1747,11 +1747,6 @@
     - term: 游戏
       icon: fa-gamepad
       links:
-        - title: 畅玩空间
-          logo: assets/images/logos/Default.svg
-          url: https://play.wo1wan.com/
-          description: 
-
         - title: Mikutap
           logo: assets/images/logos/Default.svg
           url: https://aidn.jp/mikutap/
