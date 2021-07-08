@@ -43,6 +43,11 @@
       url: https://tophub.today
       description: 聚合类网络热闻榜单
 
+    - title: Typing practice
+      logo: assets/images/logos/Keybr.svg
+      url: https://www.keybr.com/
+      description: 
+
 - taxonomy: 云盘
   icon: fa-skyatlas
   links: 
@@ -1741,71 +1746,55 @@
       url: https://www.xungushici.com/
       description: 
 
-- taxonomy: 娱乐
-  icon: fa-gamepad
-  list: 
-    - term: 游戏
-      icon: fa-gamepad
-      links:
-        - title: Mikutap
-          logo: assets/images/logos/Default.svg
-          url: https://aidn.jp/mikutap/
-          description: 键盘音乐游戏
+- taxonomy: 休闲
+  icon: fa-coffee
+  links:
+    - title: GGAC_CG分享
+      logo: assets/images/logos/Default.svg
+      url: https://www.ggac.net/
+      description: 国内精美CG作品
 
-        - title: TypeRacer
-          logo: assets/images/logos/Default.svg
-          url: https://play.typeracer.com/
-          description: 打字游戏
+    - title: PixivIC
+      logo: assets/images/logos/Default.svg
+      url: http://xm.sb/
+      description: sharemoe,Pixiv镜像站之一
 
-    - term: 休闲
-      icon: fa-coffee
-      links:
-        - title: GGAC_CG分享
-          logo: assets/images/logos/Default.svg
-          url: https://www.ggac.net/
-          description: 国内精美CG作品
+    - title: The Useless Web
+      logo: assets/images/logos/Default.svg
+      url: https://theuselessweb.com/
+      description: 随机重定向到有趣的网站
 
-        - title: PixivIC
-          logo: assets/images/logos/Default.svg
-          url: http://xm.sb/
-          description: sharemoe,Pixiv镜像站之一
+    - title: 有趣网址之家
+      logo: assets/images/logos/Default.svg
+      url: https://youquhome.com/
+      description: 定期发布有趣的网站
 
-        - title: The Useless Web
-          logo: assets/images/logos/Default.svg
-          url: https://theuselessweb.com/
-          description: 随机重定向到有趣的网站
+    - title: 沙雕APP
+      logo: assets/images/logos/Default.svg
+      url: https://shadiao.app/?from_chp
+      description: 
 
-        - title: 有趣网址之家
-          logo: assets/images/logos/Default.svg
-          url: https://youquhome.com/
-          description: 定期发布有趣的网站
+    - title: Mikutap
+      logo: assets/images/logos/Default.svg
+      url: https://aidn.jp/mikutap/
+      description: 键盘音乐
 
-        - title: 沙雕APP
-          logo: assets/images/logos/Default.svg
-          url: https://shadiao.app/?from_chp
-          description: 
+    - title: 涟漪
+      logo: assets/images/logos/Default.svg
+      url: https://codepen.io/neave/full/WNvGNez
+      description: 鼠标甩出炫光涟漪
 
-        - title: 涟漪
-          logo: assets/images/logos/Default.svg
-          url: https://codepen.io/neave/full/WNvGNez
-          description: 鼠标甩出炫光涟漪
+    - title: 浮动
+      logo: assets/images/logos/Default.svg
+      url: https://strobe.cool/
+      description: 久盯该图中心然后看万物浮动
 
-        - title: 浮动
-          logo: assets/images/logos/Default.svg
-          url: https://strobe.cool/
-          description: 久盯该图中心然后看万物浮动
+    - title: Human Benchmark
+      logo: assets/images/logos/Default.svg
+      url: https://humanbenchmark.com/
+      description: 测试反应力
 
-        - title: Human Benchmark
-          logo: assets/images/logos/Default.svg
-          url: https://humanbenchmark.com/
-          description: 测试反应力
-
-        - title: A Real Me
-          logo: assets/images/logos/Default.svg
-          url: https://www.arealme.com/
-          description: 很多有趣的测试
-
-        - title: Typing practice
-          logo: assets/images/logos/Default.svg
-          url: https://www.keybr.com/
-          description: 练习打字
+    - title: A Real Me
+      logo: assets/images/logos/Default.svg
+      url: https://www.arealme.com/
+      description: 很多有趣的测试
