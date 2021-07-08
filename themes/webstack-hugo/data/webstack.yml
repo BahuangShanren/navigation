@@ -874,62 +874,52 @@
           description: 一次搜索多个免费图库
 
         - title: Wallhaven
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Wallhaven.svg
           url: https://wallhaven.cc/
           description: 壁纸网站
 
-        - title: Walls
-          logo: assets/images/logos/Default.svg
-          url: http://wallls.com/
-          description: 壁纸网站
-
-        - title: Wallpaperup
-          logo: assets/images/logos/Default.svg
-          url: https://www.wallpaperup.com/
-          description: 壁纸网站
-
         - title: Hippopx
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Hippopx.svg
           url: https://www.hippopx.com/zh
           description: 免费图库
 
         - title: Unsplash
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Unsplash.svg
           url: https://unsplash.com/
           description: 免费图库
 
         - title: Pexels
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Pexels.svg
           url: https://www.pexels.com/
           description: 免费图库
 
         - title: Pixabay
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Pixabay.svg
           url: https://pixabay.com/zh/
           description: 免费图库
 
         - title: ManyPixels
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/ManyPixels.svg
           url: https://www.manypixels.co/gallery
           description: 免费插图
 
         - title: 花瓣网
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/HuaBan.svg
           url: https://huaban.com/
           description: 免费图库、设计站
 
         - title: VisualHunt
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/VisualHunt.svg
           url: https://visualhunt.com/
-          description: 免费图库
+          description: 免费家具图片库
 
         - title: Magdeleine
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Magdeleine.svg
           url: https://magdeleine.co/browse/
           description: 免费图库
 
         - title: StockSnap    
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/StockSnap.svg
           url: https://stocksnap.io/
           description: 免费图库
 
