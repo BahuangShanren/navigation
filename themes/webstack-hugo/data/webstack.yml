@@ -924,55 +924,55 @@
           description: 免费图库
 
         - title: ISO Republic
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/ISO.svg
           url: https://isorepublic.com/
           description: 免费图库
 
         - title: NASA图像和视频库
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/NASA.svg
           url: https://images.nasa.gov/
           description: NASA官方
 
-        - title: Food Pictures  
-          logo: assets/images/logos/Default.svg
+        - title: Foodiesfeed
+          logo: assets/images/logos/Foodiesfeed.svg
           url: https://www.foodiesfeed.com/
           description: 食物图片
 
         - title: Foter
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Foter.svg
           url: https://foter.com/
           description: 
 
         - title: 中国色
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/ZhongGuoSe.svg
           url: http://zhongguose.com/
           description: 中国特色的色库
 
-        - title: 渐变色库
-          logo: assets/images/logos/Default.svg
+        - title: WebGradients
+          logo: assets/images/logos/WebGradients.svg
           url: https://webgradients.com/
-          description: 
+          description: 渐变色库
 
     - term: 航拍
       icon: fa-camera
       links:
         - title: 天空之城
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/SkyPixel.svg
           url: https://www.skypixel.com/
           description: 
 
-        - title: 360°环游世界
-          logo: assets/images/logos/Default.svg
+        - title: AirPano
+          logo: assets/images/logos/AirPano.svg
           url: http://www.airpano.org.cn/
-          description: 
+          description: 360°环游世界
 
         - title: 指尖上
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/ZhiJianShang.svg
           url: https://www.zhijianshang.com/
           description: 全球全景VR
 
         - title: 极像素
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Sigoo.svg
           url: https://www.sigoo.com/
           description: 
 
