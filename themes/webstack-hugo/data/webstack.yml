@@ -976,61 +976,56 @@
           url: https://www.sigoo.com/
           description: 
 
-        - title: 千亿像素看中国
-          logo: assets/images/logos/Default.svg
-          url: http://www.bigpixel.cn/
-          description: 
-
     - term: 图片处理
       icon: fa-crop
       links:
         - title: iLoveIMG
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/iLoveIMG.svg
           url: https://www.iloveimg.com/zh-cn
           description: 
 
         - title: ImageCyborg
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/ImageCyborg.svg
           url: https://imagecyborg.com/
           description: 综合图片工具
 
         - title: Online Image Tool
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/OnlineImageTool.svg
           url: https://www.onlineimagetool.com/zh/
           description: 批量压缩、转换、调整、旋转
 
         - title: SooGIF
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/SooGIF.svg
           url: https://www.soogif.com/video
           description: 可生成超大的GIF
 
         - title: EZ GIF
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/EZGIF.svg
           url: https://ezgif.com/
           description: GIF编辑器
 
         - title: Picdie
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Picdie.svg
           url: https://www.picdiet.com/
           description: 图片压缩
 
         - title: BulkResize
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/BulkResize.svg
           url: https://bulkresizephotos.com/
           description: 图片压缩
 
         - title: PixFix
-          logo: assets/images/logos/Default.svg
-          url: https://zh.pixfix.com/
+          logo: assets/images/logos/PixFix.svg
+          url: https://pixfix.com/
           description: 图像修复
 
         - title: Let's Enhance
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Let'sEnhance.svg
           url: https://letsenhance.io/
           description: 图片智能放大
 
         - title: Icons8图像升级
-          logo: assets/images/logos/Default.svg
+          logo: assets/images/logos/Icons8-Upscaler.svg
           url: https://icons8.cn/upscaler
           description: 图片智能放大
 
